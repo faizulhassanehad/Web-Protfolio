@@ -1,4 +1,6 @@
 h1{font-size: 50px;}
+h2{font-size: 40px;}
+p{color: dimgray;}
 body{margin: 0%;
 font-family: 'Inconsolata', monospace;}
 .text-highlator{color: orange;}
@@ -17,4 +19,24 @@ padding: 10px 20px;
 border-radius: 10px;
 color: white;
 font-weight: bolder;}
-
+.dream{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
+.vvv{color: tomato;}
+.single{box-shadow: 10px 10px 40px grey;
+border-radius: 15px;
+height: 65%;
+background-color: white;}
+.experiance{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;}
+#full{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, lightSalmon,tomato);
+    border-image-slice: 1;}
+ #Baby{
+     border-left: 7px solid;
+     border-image:linear-gradient(180deg, blue,cyan) ;
+     border-image-slice: 1;}
+     footer{text-align: center;}
+ 
